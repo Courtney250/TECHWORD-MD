@@ -22,7 +22,7 @@ Advanced WhatsApp bot with premium features.
   </a>
 </div>
 
-### 1. Get Pair Code 2 on heroku 
+### 1. Get Pair Code 3 on heroku 
 <div align="center">
   <a href="https://tecworld-pair-31628bf2d70a.herokuapp.com/">
     <img src="https://img.shields.io/badge/Get Pair Code-red?style=for-the-badge&logo=whatsapp" alt="Pair Code"/>
