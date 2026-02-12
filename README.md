@@ -37,9 +37,9 @@ Advanced WhatsApp bot with premium features.
   
 | Platform | Deploy |
 |----------|--------|
-| **Heroku** | [![Heroku](https://img.shields.io/badge/Deploy-430098?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Courtney250/TECHWORD-V1-) |
-| **Railway** | [![Railway](https://img.shields.io/badge/Deploy-0B0D0E?style=for-the-badge&logo=railway)](https://railway.app/new/template?template=https://github.com/Courtney250/TECHWORD-V1-) |
-| **Render** | [![Render](https://img.shields.io/badge/Deploy-46E3B7?style=for-the-badge&logo=render)](https://render.com/deploy?repo=https://github.com/Courtney250/TECHWORD-V1-) |
+| **Heroku** | [![Heroku](https://img.shields.io/badge/Deploy-430098?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Courtney250/TECHWORD-MD) |
+| **Railway** | [![Railway](https://img.shields.io/badge/Deploy-0B0D0E?style=for-the-badge&logo=railway)](https://railway.app/new/template?template=https://github.com/Courtney250/TECHWORD-MD) |
+| **Render** | [![Render](https://img.shields.io/badge/Deploy-46E3B7?style=for-the-badge&logo=render)](https://render.com/deploy?repo=https://github.com/Courtney250/TECHWORD-MD) |
 
 </div>
 
@@ -48,7 +48,7 @@ Advanced WhatsApp bot with premium features.
 ## Download
 
 <div align="center">
-  <a href="https://github.com/Courtney250/TECHWORD-V1-/archive/refs/heads/main.zip">
+  <a href="https://github.com/Courtney250/TECHWORD-MD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download Project-red?style=for-the-badge&logo=download" height="50"/>
   </a>
 </div>
