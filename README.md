@@ -66,7 +66,7 @@ Advanced WhatsApp bot with premium features.
 ## Support
 
 **Developer**: Courtney  
-**Contact**: 254104260236  
+**Contact**: +254743037984
 **GitHub**: [Courtney250](https://github.com/Courtney250)
 
 ---
